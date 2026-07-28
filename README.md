@@ -154,7 +154,7 @@ Currently focused on
 | <a href="https://psportfolio-tan.vercel.app"><img src="./assets/ps_portfolio.png" alt="Project One" width="200" height="150"></a> | <a href="PROJECT_2_LINK"><img src="https://placehold.co/500x280?text=Project+2" alt="Project Two" width="100%"></a> | <a href="PROJECT_3_LINK"><img src="https://placehold.co/500x280?text=Project+3" alt="Project Three" width="100%"></a> |
 | **PS-Portfolio** | **Project Name** | **Project Name** |
 | A highly interactive, full-stack personal portfolio featuring a digital "Notes Board" with fluid animations and serverless infrastructure. | Short project description goes here. | Short project description goes here. |
-| **Tech:**React 19 • Vite • Tailwind CSS v4 • Framer Motion • Express.js • REST API • Vercel  | **Tech:** Flutter • Firebase | **Tech:** ASP.NET Core • SQL Server |
+| **Tech:** React 19 • Vite • Tailwind CSS v4 • Framer Motion • Express.js • REST API • Vercel  | **Tech:** Flutter • Firebase | **Tech:** ASP.NET Core • SQL Server |
 | [🔗 Repository](https://github.com/Oshadha369/PS-Portfolio)<br>[🌐 Live Demo](psportfolio-tan.vercel.app) | [🔗 Repository](PROJECT_2_REPO)<br>[🌐 Live Demo](PROJECT_2_DEMO) | [🔗 Repository](PROJECT_3_REPO)<br>[🌐 Live Demo](PROJECT_3_DEMO) |
 
 ---
