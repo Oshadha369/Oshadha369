@@ -159,12 +159,6 @@ Currently focused on
 
 ---
 
-# 📊 Quick Stats
-
-[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=Oshadha369)](https://github.com/stats-organization/github-stats-extended)
-
----
-
 <div align="center">
 
 ## 🚀 Let's Build Something
